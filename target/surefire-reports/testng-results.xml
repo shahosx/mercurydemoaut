@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.QuickTest" duration-ms="29976" started-at="2017-02-05T17:35:04Z" finished-at="2017-02-05T17:35:34Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="29976" started-at="2017-02-05T17:35:04Z" finished-at="2017-02-05T17:35:34Z">
+      <class name="test.QuickTest">
+        <test-method status="PASS" signature="set()[pri:0, instance:test.QuickTest@6442b0a6]" name="set" is-config="true" duration-ms="5554" started-at="2017-02-05T12:35:04Z" finished-at="2017-02-05T12:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="testLunch()[pri:0, instance:test.QuickTest@6442b0a6]" name="testLunch" duration-ms="40" started-at="2017-02-05T12:35:09Z" finished-at="2017-02-05T12:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLunch -->
+        <test-method status="PASS" signature="testPage1()[pri:1, instance:test.QuickTest@6442b0a6]" name="testPage1" duration-ms="5277" started-at="2017-02-05T12:35:09Z" finished-at="2017-02-05T12:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage1 -->
+        <test-method status="PASS" signature="testHome()[pri:2, instance:test.QuickTest@6442b0a6]" name="testHome" duration-ms="963" started-at="2017-02-05T12:35:15Z" finished-at="2017-02-05T12:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method status="PASS" signature="testSignin()[pri:3, instance:test.QuickTest@6442b0a6]" name="testSignin" duration-ms="3370" started-at="2017-02-05T12:35:16Z" finished-at="2017-02-05T12:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignin -->
+        <test-method status="PASS" signature="testBookFlight()[pri:4, instance:test.QuickTest@6442b0a6]" name="testBookFlight" duration-ms="9139" started-at="2017-02-05T12:35:19Z" finished-at="2017-02-05T12:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookFlight -->
+        <test-method status="PASS" signature="testSupport()[pri:5, instance:test.QuickTest@6442b0a6]" name="testSupport" duration-ms="656" started-at="2017-02-05T12:35:28Z" finished-at="2017-02-05T12:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSupport -->
+        <test-method status="PASS" signature="testContact()[pri:6, instance:test.QuickTest@6442b0a6]" name="testContact" duration-ms="662" started-at="2017-02-05T12:35:29Z" finished-at="2017-02-05T12:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContact -->
+        <test-method status="PASS" signature="testHotels()[pri:7, instance:test.QuickTest@6442b0a6]" name="testHotels" duration-ms="811" started-at="2017-02-05T12:35:29Z" finished-at="2017-02-05T12:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHotels -->
+        <test-method status="PASS" signature="testCarRentals()[pri:8, instance:test.QuickTest@6442b0a6]" name="testCarRentals" duration-ms="609" started-at="2017-02-05T12:35:30Z" finished-at="2017-02-05T12:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarRentals -->
+        <test-method status="PASS" signature="testCruises()[pri:9, instance:test.QuickTest@6442b0a6]" name="testCruises" duration-ms="1636" started-at="2017-02-05T12:35:31Z" finished-at="2017-02-05T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCruises -->
+        <test-method status="PASS" signature="testDestinations()[pri:10, instance:test.QuickTest@6442b0a6]" name="testDestinations" duration-ms="524" started-at="2017-02-05T12:35:32Z" finished-at="2017-02-05T12:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDestinations -->
+        <test-method status="PASS" signature="testVacations()[pri:11, instance:test.QuickTest@6442b0a6]" name="testVacations" duration-ms="698" started-at="2017-02-05T12:35:33Z" finished-at="2017-02-05T12:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVacations -->
+      </class> <!-- test.QuickTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.QuickTest -->
+</testng-results>

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ <suite name="RegressionSuite">
+ <test name="QuickTest">
+ <classes>
+ <class name="test.QuickTest">
+ 
+ </class>
+ </classes>
+ </test>
+ 
+ </suite>
