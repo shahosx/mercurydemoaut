@@ -1,1 +1,2 @@
-Hello testing git text file
+Hello testing git text file\
+hi
