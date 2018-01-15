@@ -1,0 +1,7 @@
+#!/bin/sh
+
+exec vim "$@"
+Hi How are you? 
+modifying
+
+Second commit
